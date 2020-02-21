@@ -16,10 +16,10 @@ NYC Yellow Taxi's trip data for 2017 - Nov and Dec
 While performing this analysis, you will inevitably make several assumptions. As long as you state these assumptions, you will be awarded marks.  
 
 ## Platform used :
-https://www.corestack.io/corestack-claas/
-__Cloud Lab as a Service (CLaaS) is an on-demand, virtual practice environment for students/professionals pursuing
+https://www.corestack.io/corestack-claas/  
+_Cloud Lab as a Service (CLaaS) is an on-demand, virtual practice environment for students/professionals pursuing
 technical subjects. This offering allows students & professionals the convenience of access to practice labs anytime and
-anywhere, to supplement classroom learning.__
+anywhere, to supplement classroom learning._
 
 
 
