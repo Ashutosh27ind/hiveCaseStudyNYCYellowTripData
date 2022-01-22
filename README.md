@@ -8,7 +8,7 @@ The records include fields capturing pick-up and drop-off dates/times, pick-up a
 This dataset was created by aggregating the aforementioned records. It provides precise location coordinates for where the trip started and ended, timestamps for when the trip started and ended, plus a few other variables including fare amount, payment method, and distance travelled.  
 The purpose of this dataset is to get a better understanding of the taxi system so that the city of New York can improve the efficiency of in-city commutes. Several exploratory questions can be asked about the travelling experience for passengers.
 
-The dataset has been placed in the HDFS storage of the lab. The path to the data files is as follows:
+The dataset has been placed in HDFS storage of the lab. The path to the data files is as follows:   
 '/common_folder/nyc_taxi_data/'  
 In case you want to download the data, here are the download links:
 NYC Yellow Taxi's trip data for 2017 - Nov and Dec  
